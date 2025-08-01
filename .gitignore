@@ -1,1 +1,18 @@
-.aider*
+# Ignorar archivos de datos
+*.csv
+*.xlsx
+
+# Ignorar archivos de logs
+*.log
+
+# Ignorar carpetas de entornos virtuales
+venv/
+.env/
+
+# Ignorar carpetas de IDEs
+.vscode/
+.idea/
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
