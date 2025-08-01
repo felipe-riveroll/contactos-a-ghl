@@ -16,3 +16,6 @@ venv/
 # Ignorar archivos de sistema
 .DS_Store
 Thumbs.db
+
+# Ignorar archivos generados por aider
+.aider*
